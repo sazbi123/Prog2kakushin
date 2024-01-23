@@ -65,4 +65,4 @@
 <p>使いまわせるデータは使いまわすようにした（画像の幅、高さなどの値）</p>
 <h3>どんなフィルタをするか参考にしたソフト</h3>
 <p>青い空を見上げればいつもそこに白い猫　for　うさみみハリケーン</p>
-<a href="https://digitaltravesia.jp/usamimihurricane/webhelp/_RESOURCE/MenuItem/another/anotherAoZoraSiroNeko.html"> サイト</a>
+<a href="https://digitaltravesia.jp/usamimihurricane/webhelp/_RESOURCE/MenuItem/another/anotherAoZoraSiroNeko.html">このソフトの説明サイト</a>
