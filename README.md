@@ -40,6 +40,7 @@
 <p>内容としては次のように処理した画像を見ることができます</p>
 <ul type="disc">
 <li>ビットのXOR演算（反転処理）</li>
+  <img src="https://github.com/sazbi123/Prog2kakushin/assets/153467616/05ff7811-36b1-4f9f-8c37-e2bacedff762">
 <li>赤色のみ抽出</li>
 <li>緑色のみ抽出</li>
 <li>青色のみ抽出</li>
