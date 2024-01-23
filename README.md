@@ -42,15 +42,30 @@
 <li>ビットのXOR演算（反転処理）</li>
   <img src="https://github.com/sazbi123/Prog2kakushin/assets/153467616/05ff7811-36b1-4f9f-8c37-e2bacedff762">
 <li>赤色のみ抽出</li>
+  <img src="https://github.com/sazbi123/Prog2kakushin/assets/153467616/e1304ce6-b4ed-4cdc-99a3-521336a2d320">
 <li>緑色のみ抽出</li>
+  <img src="https://github.com/sazbi123/Prog2kakushin/assets/153467616/81a4d584-8ddd-494d-8fda-9274c55efc58">
 <li>青色のみ抽出</li>
+  <img src="https://github.com/sazbi123/Prog2kakushin/assets/153467616/4d318c84-e9f5-49f6-b166-a22daf03876a">
 <li>ビット左ローテート処理（左にシフトして、その沖あふれたものを最下位ビットに送る）<br>大体0~6,7ビットぐらいまで</li>
+  <img src="https://github.com/sazbi123/Prog2kakushin/assets/153467616/01f03df2-3f4e-40bf-9c90-b7053185d399"><br>
+  左ローテート1回の例
 <li>赤色のビット抽出　大体0~6,7ビットぐらいまで</li>
+  <img src="https://github.com/sazbi123/Prog2kakushin/assets/153467616/13832e6d-c8a0-4a3f-ac77-e36d38369a06"><br>
+  赤色ビット0抽出の例
 <li>緑色のビット抽出　大体0~6,7ビットぐらいまで</li>
+  <img src="https://github.com/sazbi123/Prog2kakushin/assets/153467616/5a420e6f-1244-42ea-b172-176c5e979917"><br>
+  緑色ビット0抽出の例
 <li>青色のビット抽出　大体0~6,7ビットぐらいまで</li>
+  <img src="https://github.com/sazbi123/Prog2kakushin/assets/153467616/220daa23-5750-4f3e-9279-878cd288fd01"><br>
+  青色ビット0抽出の例
 <li>輝度半分</li>
+  img src="https://github.com/sazbi123/Prog2kakushin/assets/153467616/e36ae7d1-0cec-4186-b258-8e4330d1ee44">
 <li>輝度２倍</li>
+  img src="https://github.com/sazbi123/Prog2kakushin/assets/153467616/eeaab326-b067-4402-af7b-0cc428e6bba6">
 <li>ビットプレーン（RGBの同じ位の１ビットに対して0だったら255、逆は0にして画像を出力）<br>大体0~6,7ビットぐらいまで</li>
+  <img src="https://github.com/sazbi123/Prog2kakushin/assets/153467616/8f277525-5dd6-4c7d-a8cb-716794e79f74"><br>
+  ビットプレーン0ビットの例
 </ul>
 <h3>どういったときに使うか</h3>
 <ul type="disc">
