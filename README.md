@@ -60,9 +60,9 @@
   <img src="https://github.com/sazbi123/Prog2kakushin/assets/153467616/220daa23-5750-4f3e-9279-878cd288fd01"><br>
   青色ビット0抽出の例
 <li>輝度半分</li>
-  img src="https://github.com/sazbi123/Prog2kakushin/assets/153467616/e36ae7d1-0cec-4186-b258-8e4330d1ee44">
+  <img src="https://github.com/sazbi123/Prog2kakushin/assets/153467616/e36ae7d1-0cec-4186-b258-8e4330d1ee44">
 <li>輝度２倍</li>
-  img src="https://github.com/sazbi123/Prog2kakushin/assets/153467616/eeaab326-b067-4402-af7b-0cc428e6bba6">
+  <img src="https://github.com/sazbi123/Prog2kakushin/assets/153467616/eeaab326-b067-4402-af7b-0cc428e6bba6">
 <li>ビットプレーン（RGBの同じ位の１ビットに対して0だったら255、逆は0にして画像を出力）<br>大体0~6,7ビットぐらいまで</li>
   <img src="https://github.com/sazbi123/Prog2kakushin/assets/153467616/8f277525-5dd6-4c7d-a8cb-716794e79f74"><br>
   ビットプレーン0ビットの例
